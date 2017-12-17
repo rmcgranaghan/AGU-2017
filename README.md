@@ -6,6 +6,9 @@ Contained within this folder are:
 - PDFs of relevant papers
 
 Contact information: 
+
 ryan.mcgranaghan@colorado.edu
+
 ryan.mcgranaghan@jpl.nasa.gov
+
 Twitter: @AeroSciengineer
